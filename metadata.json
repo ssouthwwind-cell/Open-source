@@ -1,0 +1,5 @@
+{
+  "name": "LoRA Dataset Preparer",
+  "description": "A tool for preparing image datasets for LoRA training, including batch cropping and AI tagging.",
+  "requestFramePermissions": []
+}
