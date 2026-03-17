@@ -1,0 +1,64 @@
+LoRA Dataset Preparer Custom Non-Commercial License v1.0
+LoRA Dataset Preparer 自定义非商业许可协议 v1.0
+
+Copyright (c) 2026 Author
+版权所有 (c) 2026 Author
+
+This license is written in both English and Chinese for convenience. In case of ambiguity, the English version shall prevail.
+本许可协议同时提供英文与中文版本以便阅读。如中英文内容存在歧义，以英文版本为准。
+
+1. Grant of Permission / 授权范围
+Permission is hereby granted, free of charge, to any person or organization obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, and distribute the Software for personal, educational, research, and other non-commercial purposes, subject to the conditions below.
+任何获得本软件及相关文档副本（以下简称“软件”）的个人或组织，均可在遵守以下条款的前提下，免费将本软件用于个人、教育、研究及其他非商业用途，并可对软件进行使用、复制、修改、合并、发布和分发。
+
+2. Attribution Requirement / 署名要求
+Any use, redistribution, public sharing, or modified version of the Software must retain:
+- the original author's attribution;
+- the original project name;
+- a clear reference to the original source repository or release page;
+- a notice describing whether changes were made.
+
+任何对本软件的使用、再分发、公开传播或修改版本，均必须保留以下信息：
+- 原作者署名；
+- 原项目名称；
+- 指向原始仓库或发布页面的清晰来源链接；
+- 说明是否做过修改的声明。
+
+3. Non-Commercial Restriction / 非商业限制
+Commercial use of the Software is prohibited without prior written permission from the copyright holder.
+Commercial use includes, but is not limited to:
+- selling the Software;
+- bundling the Software into paid products or paid services;
+- offering the Software or a modified version of it as part of a commercial SaaS or hosted service;
+- using the Software in activities primarily intended for commercial advantage or monetary compensation.
+
+未经著作权人事先书面许可，禁止将本软件用于商业用途。
+商业用途包括但不限于：
+- 销售本软件；
+- 将本软件打包进收费产品或收费服务；
+- 将本软件或其修改版本作为商业 SaaS、托管服务或付费能力的一部分提供；
+- 将本软件用于以商业利益或金钱回报为主要目的的活动。
+
+4. Redistribution and Modification / 再分发与修改
+Redistribution and modification are permitted for non-commercial purposes only, provided that all attribution requirements in Section 2 are preserved.
+仅允许在非商业前提下对本软件进行再分发和修改，且必须完整保留第 2 条规定的署名与来源要求。
+
+5. No Trademark License / 商标与品牌限制
+This license does not grant permission to use the author's name, product name, logo, or branding for endorsement or promotion, except for reasonable attribution as required by Section 2.
+除第 2 条要求的合理署名外，本许可协议不授予使用作者姓名、产品名称、Logo 或品牌标识进行背书、宣传或推广的权利。
+
+6. Disclaimer of Warranty / 免责声明
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+本软件按“现状”提供，不附带任何形式的明示或默示担保，包括但不限于适销性、特定用途适用性及不侵权担保。
+
+7. Limitation of Liability / 责任限制
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+无论是在合同、侵权或其他法律行为中，作者或著作权人均不对因本软件或本软件的使用、无法使用或其他处理行为所引起的任何索赔、损害或其他责任承担责任。
+
+8. Termination / 终止
+Any use of the Software in violation of this License will automatically terminate the rights granted under this License.
+任何违反本许可协议的使用行为，将自动终止本协议授予的相关权利。
+
+9. Acceptance / 协议接受
+By using, copying, modifying, or distributing the Software, you agree to be bound by the terms of this License.
+一旦你使用、复制、修改或分发本软件，即视为你已阅读、理解并同意受本许可协议约束。
